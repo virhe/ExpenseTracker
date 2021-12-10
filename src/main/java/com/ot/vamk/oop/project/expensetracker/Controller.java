@@ -161,13 +161,8 @@ public class Controller implements Initializable {
     @FXML
     private TextField readPath;
 
-    @FXML BarChart<String, Number> barChart;
-
     @FXML
-    private NumberAxis barChartY;
-
-    @FXML
-    private CategoryAxis barChartX;
+    private BarChart<String, Number> barChart;
 
     //</editor-fold>
 }
