@@ -12,6 +12,7 @@ import java.io.*;
 import java.net.URL;
 import java.util.*;
 
+// Handles the logic of all GUI events
 
 public class Controller implements Initializable {
     HashMap<String, ArrayList<Product>> dayExpenses = new HashMap<>();
