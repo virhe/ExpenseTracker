@@ -6,6 +6,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+// Launches the GUI
 
 public class Application extends javafx.application.Application {
     @Override
