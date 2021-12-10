@@ -2,6 +2,8 @@ package com.ot.vamk.oop.project.expensetracker;
 
 import java.io.Serializable;
 
+// Describes a product
+// All expenses in this program are products
 
 public class Product implements Serializable {
     private String name;
